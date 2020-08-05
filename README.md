@@ -5,10 +5,10 @@
 Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-source development enthusiast.
 
 - 🌱 I’m currently learning Linux Kernel, Docker and K8s;
-- 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
+- 🚀 I'm currently reading "Understanding the Linux Kernel, 3rd Edition";
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&hide=html)
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true&count_private=true&line_height=33.5)
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true&count_private=true&line_height=34)
 
 ### Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
