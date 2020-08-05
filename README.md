@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey 👋, I'm si9ma
 
-<!--
-**si9ma/si9ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/si9ma?label=Follow&style=social)](https://github.com/si9ma)
 
-Here are some ideas to get you started:
+Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-source development enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Linux Kernel, Docker and K8s;
+- 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
+
+### Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+
+
+### Interesting stats
+
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true)
