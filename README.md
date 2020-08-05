@@ -1,13 +1,13 @@
 ### Hey 👋, I'm si9ma
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
 [![Github](https://img.shields.io/github/followers/si9ma?label=Follow&style=social)](https://github.com/si9ma)
 
 Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-source development enthusiast.
 
 - 🌱 I’m currently learning Linux Kernel, Docker and K8s;
 - 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
+
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact&hide=html)
 
