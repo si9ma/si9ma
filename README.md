@@ -7,7 +7,7 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 - 🌱 I’m currently learning Linux Kernel, Docker and K8s;
 - 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact&hide=html)
 
 ![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true&count_private=true)
 
@@ -34,3 +34,5 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 <a href="https://github.com/goplus/gop">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=goplus&repo=gop&show_owner=true" />
 </a>
+
+![image](./dino.gif)
