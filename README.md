@@ -7,6 +7,8 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 - 🌱 I’m currently learning Linux Kernel, Docker and K8s;
 - 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
 
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true)
+
 ### Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
@@ -24,9 +26,6 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-
-
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true)
 
 ### My Contributions
 
