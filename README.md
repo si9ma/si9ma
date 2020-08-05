@@ -9,8 +9,6 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact&hide=html)
-
 ![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true&count_private=true)
 
 ### Stack I work with
