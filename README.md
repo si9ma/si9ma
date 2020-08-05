@@ -7,7 +7,7 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 - 🌱 I’m currently learning Linux Kernel, Docker and K8s;
 - 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact&hide=html)](https://github.com/si9ma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact&hide=html)](https://github.com/si9ma)
 
 ![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true&count_private=true)
 
