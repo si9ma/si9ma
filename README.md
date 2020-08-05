@@ -7,8 +7,9 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 - 🌱 I’m currently learning Linux Kernel, Docker and K8s;
 - 🚀 I,m currently reading "Understanding the Linux Kernel, 3rd Edition";
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact&hide=html)](https://github.com/si9ma/github-readme-stats)
+
 ![Alexey's stats](https://github-readme-stats.vercel.app/api?username=si9ma&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si9ma&layout=compact)](https://github.com/si9ma/github-readme-stats)
 
 ### Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
@@ -32,8 +33,4 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 
 <a href="https://github.com/goplus/gop">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=goplus&repo=gop&show_owner=true" />
-</a>
-
-<a href="https://github.com/frank-lam/fullstack-tutorial">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&show_owner=true" />
 </a>
