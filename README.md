@@ -36,7 +36,3 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 <a href="https://github.com/frank-lam/fullstack-tutorial">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial" />
 </a>
-
-<a href="https://github.com/easychen/howto-make-more-money">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=easychen&repo=howto-make-more-money" />
-</a>
