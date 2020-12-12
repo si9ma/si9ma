@@ -1,6 +1,8 @@
 ### Hey 👋, I'm si9ma
 
 [![Github](https://img.shields.io/github/followers/si9ma?label=Follow&style=social)](https://github.com/si9ma)
+[![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1)](https://codetime.datreks.com)
+[![CodeTime](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1&color=informational)](https://codetime.datreks.com)
 
 Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-source development enthusiast.
 
