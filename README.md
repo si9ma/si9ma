@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/si9ma?label=Follow&style=social)](https://github.com/si9ma)
 [![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1)](https://codetime.datreks.com)
-[![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1?project=codetime-server)](https://codetime.datreks.com)
+[![CodeTime](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fcodetime-api.datreks.com%2Fbadge%2F1%3Fproject%3Dcodetime-server%26showProject%3D1)](https://codetime.datreks.com)
 
 Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-source development enthusiast.
 
