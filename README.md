@@ -30,14 +30,6 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
-### My Contributions
-
-<a href="https://github.com/goplus/gop">
-  <img align="left" src="https://github-readme-stats-89dq8p8qw.vercel.app/api/pin/?username=goplus&repo=gop&show_owner=true" />
-</a>
-
-<br/><br/>
-
 ---
 
 ### CodeTime Project
@@ -46,3 +38,12 @@ Statistical analysis of programming time @ http://codetime.datreks.com/
 <a href="http://codetime.datreks.com/">
   <img align="center" src="./codetime.png" />
 </a>
+
+---
+
+### My Contributions
+
+<a href="https://github.com/goplus/gop">
+  <img align="left" src="https://github-readme-stats-89dq8p8qw.vercel.app/api/pin/?username=goplus&repo=gop&show_owner=true" />
+</a>
+
