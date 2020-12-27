@@ -36,4 +36,11 @@ Hi there, I'm si9ma, a Software Engineering 🚀 from Beijing, China. I'm open-s
   <img align="left" src="https://github-readme-stats-89dq8p8qw.vercel.app/api/pin/?username=goplus&repo=gop&show_owner=true" />
 </a>
 
-![image](https://github.com/si9ma/si9ma/blob/master/dino.gif)
+---
+
+### CodeTime Project
+Statistical analysis of programming time @ http://codetime.datreks.com/
+
+<a href="http://codetime.datreks.com/">
+  <img align="center" src="./codetime.png" />
+</a>
